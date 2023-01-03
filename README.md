@@ -4,18 +4,19 @@ When you run the shortcut, it will automatically convert the selected GIF to a v
 
 ## Requirements
 
-- iOS 14 or later
+- An iOS device with iOS 14 or later, or an iPad with iPadOS 14 or later.
+- A Mac with macOS Big Sur or later.
+- The Shortcuts app, which is preinstalled on all iOS and iPadOS devices running iOS 14 or later and iPadOS 14 or later, respectively. On macOS, the Shortcuts app can be downloaded from the Mac App Store.
 
 ## Installation
 
-1. Open the Shortcuts app on your iOS device.
-2. Tap the "+" button to create a new shortcut.
-3. Tap "Add Action" and search for "GifToVideo."
-4. Tap the "GifToVideo" action and then tap "Add to Shortcut."
+1. Download the Shortcuts file to your device.
+2. Add it to your Shortcuts library. You can take a look at the actions before importing it.
+3. Run it.
 
 ## Usage
 
-Run the shortcut from the Shortcuts app or from the widget sheet in any app.
+Run the shortcut from the Shortcuts app or from the widget sheet in any app. 
 
 ## License
 
